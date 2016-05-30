@@ -1,6 +1,9 @@
 Kafka Connect CLI
 =================
 
+Development is continued at: https://github.com/datamountaineer/kafka-connect-tools
+-----------------------------------------------------------------------------------
+
 This is a tiny command line interface (CLI) around the [Kafka Connect REST Interface](http://docs.confluent.io/2.0.1/connect/userguide.html#rest-interface) to manage connectors.
 It is used in a git like fashion where the first program argument indicates the command: it can be one of `[ls|get|rm|create|run]`.
 
